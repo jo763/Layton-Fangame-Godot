@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/export-276.png-fd89434c7784470cf6b596ca81d85d55.stex"
+path="res://.import/export-276.png-cd0e5a758ddcd868c3d9faa4dfecfea4.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://export-276.png"
-dest_files=[ "res://.import/export-276.png-fd89434c7784470cf6b596ca81d85d55.stex" ]
+source_file="res://GFX/export-276.png"
+dest_files=[ "res://.import/export-276.png-cd0e5a758ddcd868c3d9faa4dfecfea4.stex" ]
 
 [params]
 
